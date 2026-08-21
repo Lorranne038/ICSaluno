@@ -32,5 +32,3 @@ build/
 # Coverage
 coverage/
 
-# Database (local dev data)
-banco.json
