@@ -1,24 +1,6 @@
 {
     "alunos": [
         {
-            "id": 1786971930871,
-            "nome": "Sofia Lara",
-            "idade": 13,
-            "nota": 10
-        },
-        {
-            "id": 1786971951693,
-            "nome": "Miguel",
-            "idade": 12,
-            "nota": 9
-        },
-        {
-            "id": 1786971970223,
-            "nome": "Gustavo",
-            "idade": 14,
-            "nota": 3
-        },
-        {
             "id": 1786972006615,
             "nome": "Pedro",
             "idade": 14,
