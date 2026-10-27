@@ -58,3 +58,36 @@ button:hover {
     color: red;
     font-weight: bold;
 }
+.botoes-aluno {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+.btn-editar,
+.btn-deletar {
+    width: auto;
+    padding: 8px 16px;
+    font-size: 14px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+}
+.btn-editar {
+    background: #f57c00;
+}
+.btn-editar:hover {
+    background: #e65100;
+}
+.btn-deletar {
+    background: #d32f2f;
+}
+.btn-deletar:hover {
+    background: #b71c1c;
+}
+.btn-salvar {
+    background: #388e3c;
+}
+.btn-salvar:hover {
+    background: #2e7d32;
+}
